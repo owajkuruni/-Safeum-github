@@ -1,1 +1,1 @@
-gh repo clone xDWart/mqtg-bot
+http -a 5987636711:vL4Nx8kzxxgQe61YWzWqndYr https://mqtt2telegram.projects.royz.cc/api/v1.0/send topic=<topic> payload='<message>'
